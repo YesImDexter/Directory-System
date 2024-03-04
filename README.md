@@ -1,2 +1,2 @@
 # Directory-System
- A Directory Sistem that can manage Staff Info
+ A Directory Sistem that can manages Staff and Departments (Currently Unstable)
